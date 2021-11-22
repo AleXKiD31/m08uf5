@@ -1,0 +1,25 @@
+table, th, td{
+    border: 2px solid black;
+}
+
+th {
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+td {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: red;
+    font-size: 64px;
+}
