@@ -1,0 +1,14 @@
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    width: 10%;
+    border-collapse: collapse;
+}
+
+.merienda {
+    text-align: center;
+    background-color: white;
+    color: black;
+}
