@@ -5,3 +5,11 @@ table, th, td {
 table {
     border-collapse: collapse;
 }
+
+.gris {
+    background-color: gray;
+}
+
+.fuente {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
