@@ -38,3 +38,7 @@ h2.patata {
 p.patata, li.patata {
     color:black; font-size:12px;
 }
+
+.taco {
+    width: 10cm;
+}
