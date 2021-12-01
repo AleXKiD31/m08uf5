@@ -1,0 +1,15 @@
+table, th, td{
+    border: 2px solid black;
+    margin-top: 5cm;
+    margin-left: 19cm;
+    padding: 5%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 25%;
+}
+
+.goku {
+    background-color: yellow;
+}
