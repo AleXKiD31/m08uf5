@@ -1,0 +1,79 @@
+div {
+    width: 600px;
+    height: 600px;
+    margin: 5px;
+}
+.verdel1 {
+    padding: 30px;
+    height: 25px;
+    width: 500px;
+    background-color: #6c0;
+    float: left;
+}
+.verdel2 {
+    padding: 30px;
+    height: 30px;
+    width: 120px;
+    background-color: #6c0;
+    float: left;
+    margin: -195px 5px;
+}
+.verde1 {
+    padding: 30px;
+    height: 30px;
+    width: 120px;
+    background-color: green;
+    float: left;
+}
+.verde2 {
+    padding: 30px;
+    height: 30px;
+    width: 120px;
+    background-color: green;
+    float: left;
+    margin: -95px 5px;
+}
+.azul {
+    padding: 50px;
+    height: 190px;
+    width: 270px;
+    background-color: deepskyblue;
+    float: left;
+}
+.negro {
+    padding: 60px;
+    height: 65px;
+    width: 60px;
+    background-color: black;
+    float: left;
+}
+.verdel3 {
+    padding: 30px;
+    height: 30px;
+    width: 120px;
+    background-color: #6c0;
+    float: left;
+}
+.verde3 {
+    padding: 30px;
+    height: 30px;
+    width: 120px;
+    background-color: green;
+    float: left;
+    margin: 100px -185px;
+}
+.verdel4 {
+    padding: 60px;
+    height: 160px;
+    width: 60px;
+    background-color: #6c0;
+    float: left;
+}
+.verdel5 {
+    padding: 20px;
+    height: 45px;
+    width: 330px;
+    background-color: #6c0;
+    float: left;
+    margin: -90px 5px;
+}
