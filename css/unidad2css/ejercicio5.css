@@ -1,0 +1,66 @@
+div {
+    width: 830px;
+    height: 830px;
+    background-color: #fef2cd;
+}
+
+.cabecera {
+    width: 830px;
+    height: 150px;
+    background-image: url(../../sirius/cabecera.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    float: left;
+}
+
+.tiempozodiaco {
+    width: 830px;
+    background-image: url(../../sirius/tiempozodiaco.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    float: left;
+}
+
+.borde {
+    border-style: solid;
+    width: 830px;
+    margin: -740px 0px;
+    float: left;
+    background-color: #fef2cd;
+}
+
+.siriusblack {
+    width: 800px;
+    background-image: url(../../sirius/siriusblack.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin: 0px 30px;
+    float: left;
+}
+
+.izquierda1 {
+    width: 830px;
+    background-image: url(../../sirius/izquierda1.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin: -700px 0px;
+    float: left;
+}
+
+.sigthed {
+    width: 690px;
+    background-image: url(../../sirius/sighted.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    float: left;
+    margin: -700px 145px;
+}
+
+.derecha1 {
+    width: 150px;
+    background-image: url(../../sirius/derecha1.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    float: left;
+    margin: -700px 600px;
+}
