@@ -1,0 +1,12 @@
+body {
+    background-image: url(../img/doomslayer.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 119rem;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
