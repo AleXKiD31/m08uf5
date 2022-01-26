@@ -1,0 +1,32 @@
+legend {
+    color: green;
+}
+
+.primero {
+    background-color: red;
+}
+
+.segundo {
+    background-color: gold;
+}
+
+.tercero {
+    background-color: darkblue;
+}
+
+.cuarto {
+    background-color: lawngreen;
+}
+
+.quinto {
+    background-color: cyan;
+}
+
+.titulocolor {
+    color: greenyellow;
+    text-align: center;
+}
+
+body {
+    background-image: url(../img/thumb2-doom-eternal-slayer-doom-grunge-art-orange-stone-background-doom-slayer.jpg);
+}
