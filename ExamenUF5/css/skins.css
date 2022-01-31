@@ -1,0 +1,22 @@
+body {
+    background-image: url(../img/doom-slayer-andrey-pankov.jpg);
+}
+
+table, th, td{
+    border: 5px solid black;
+    margin-top: 1cm;
+    margin-left: 1cm;
+    padding: 2px;
+    text-align: center;
+
+}
+
+img {
+    width: 250px;
+    height: 500px;
+}
+
+p {
+    color: gold;
+    font-size: 30px;
+}
